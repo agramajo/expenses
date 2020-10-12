@@ -1,0 +1,10 @@
+db.sqlite3
+*.swp
+*.pyc
+*.cfg
+*.db
+test/
+venv
+.venv
+.vscode
+_pycache__
